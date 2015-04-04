@@ -119,10 +119,7 @@ public class WordCount {
 		 */
 
 			while (values.hasNext()) {
-
 				sum += values.next().get();
-				
-				
 			}
 			
 			//Dumping the output
